@@ -25,17 +25,22 @@ Building scalable software, AI-powered applications, and data-driven solutions t
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **B.E. Computer Science Engineering (Data Science)** | CMR Institute of Technology, Bengaluru (CGPA **8.68**) | **Class of 2027**
-- 💻 Passionate about **Software Engineering, Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Engineering**
-- 🤖 Building intelligent applications using **LLMs, RAG, Computer Vision, and Generative AI**
-- 🧪 Former **Machine Learning Intern** at **Intrainz Innovation Pvt. Ltd.**
-- 📄 Patent Filed for **"Smart Adaptive Baby Carry Bag with Integrated Safety Monitoring & Posture Correction"**
-- 🌱 Currently exploring **System Design, DSA, AI Agents, Cloud Technologies, and Scalable Backend Systems**
-- 🏆 Participated in **Adobe India Hackathon, EY Techathon 6.0, SIH, Full-Stack Fiesta, UNLOX** and other innovation challenges
-- 🎯 Actively seeking **Software Engineering** and **AI/ML** internship opportunities
+I'm a **Computer Science (Data Science)** undergraduate passionate about building scalable software and AI-powered applications that solve real-world problems. I enjoy developing end-to-end solutions across **Software Engineering, Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Engineering**.
 
+My interests include **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Computer Vision, System Design, Cloud Technologies, and Data Structures & Algorithms (DSA)**. I continuously explore new technologies by building practical projects, participating in hackathons, and contributing to innovative solutions.
+
+I'm currently seeking opportunities where I can apply my technical skills, collaborate with talented teams, and grow as a **Software Engineer** while creating impactful products.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.) – Computer Science Engineering (Data Science)**  
+📍 CMR Institute of Technology, Bengaluru, India  
+📅 2023 – 2027  
+📊 **CGPA:** 8.68 / 10.0
 ---
 
 ## 🛠️ Tech Stack
@@ -166,6 +171,35 @@ Enterprise PDF ingestion pipeline supporting document versioning, hierarchical p
 
 <td width="50%">
 
+---
+
+## 💼 Experience
+
+### 🧪 Machine Learning Intern
+
+**Intrainz Innovation Pvt. Ltd.** | *Oct 2025 – Dec 2025*
+
+* Built and optimized Machine Learning models using **Python** and **Scikit-learn**.
+* Performed data preprocessing, feature engineering, and model evaluation.
+* Collaborated on AI-driven solutions using real-world datasets.
+
+---
+
+### 💻 AI & Full-Stack Intern
+
+**IBM SkillsBuild**
+
+* Completed hands-on training in **AI, Machine Learning, and Full-Stack Development**.
+* Developed real-world projects while strengthening software engineering and cloud fundamentals.
+
+---
+
+### 🚀 Virtual Internship Trainee
+
+**Infosys Springboard**
+
+* Completed industry-oriented training in **Full-Stack Development** and software engineering.
+* Built practical web applications and gained experience with modern development workflows.
 ---
 
 # 🏆 Awards & Achievements
