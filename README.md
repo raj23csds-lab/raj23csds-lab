@@ -72,8 +72,6 @@ I'm currently seeking opportunities where I can apply my technical skills, colla
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square)
 
