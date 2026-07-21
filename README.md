@@ -171,44 +171,6 @@ Enterprise PDF ingestion pipeline supporting document versioning, hierarchical p
 
 ---
 
-## 💼 Experience
-
-### 🧪 Machine Learning Intern
-
-**Intrainz Innovation Pvt. Ltd.** | *Oct 2025 – Dec 2025*
-
-* Built and optimized Machine Learning models using **Python** and **Scikit-learn**.
-* Performed data preprocessing, feature engineering, and model evaluation.
-* Collaborated on AI-driven solutions using real-world datasets.
-
----
-
-### 💻 AI & Full-Stack Intern
-
-**IBM SkillsBuild**
-
-* Completed hands-on training in **AI, Machine Learning, and Full-Stack Development**.
-* Developed real-world projects while strengthening software engineering and cloud fundamentals.
-
----
-
-### 🚀 Virtual Internship Trainee
-
-**Infosys Springboard**
-
-* Completed industry-oriented training in **Full-Stack Development** and software engineering.
-* Built practical web applications and gained experience with modern development workflows.
----
-
-# 🏆 Awards & Achievements
-
-- 🥇 **Winner** — Department Mini Project Competition *(Metro Journey Tracker)*
-- 📄 **Patent Filed** — Smart Adaptive Baby Carry Bag with Integrated Safety Monitoring & Posture Correction *(2025)*
-- 🎖️ **Academic Excellence Award** — High School
-- 🏁 Participated in **Adobe India Hackathon**, **EY Techathon 6.0**, **Smart India Hackathon (SIH)**, **Full-Stack Fiesta**, **UNLOX**, and multiple university innovation competitions.
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -237,6 +199,6 @@ Enterprise PDF ingestion pipeline supporting document versioning, hierarchical p
 
 <p align="center">
 <i>
-💼 Open to Software Engineering • AI/ML • Full-Stack Development • Backend Engineering Internship Opportunities
+💼 Open to Software Engineering • AI/ML Internship Opportunities
 </i>
 </p>
