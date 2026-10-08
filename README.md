@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshitha J</h1>
 
 <h3 align="center">
-Computer Science (Data Science) Undergraduate • Software Engineer • AI & ML Enthusiast 
+Computer Science (Data Science) Undergraduate • Software Engineer • AI & ML Enthusiast
 </h3>
 
 <p align="center">
